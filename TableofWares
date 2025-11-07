@@ -1,17 +1,12 @@
-<!doctype html>
-<html lang="en">
-  <head>
+<head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Who would you like to be?</title>
+    <title>Table of Wares</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-sRIl4kxILFvY47J16cr9ZwB07vP4J8+LH7qKQnuqkuIAvNWLzeN8tE5YBujZqJLB" crossorigin="anonymous">
   </head>
   <body>
-    <h1>Who would you like to be?</h1>
-    <nav>
-    <a href="./TheHero.html">The Hero</a>
-    <a href="./TheHermit.html">The Hermit</a>
-    <a href="./TheHierophant/html">The Hierophant</a>
+    <h1>What interests you?</h1>
+    <h2>Item 1<br>Item 2<br>Item 3<br>Item 4</h2>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/js/bootstrap.bundle.min.js" integrity="sha384-FKyoEForCGlyvwx9Hj09JcYn3nv7wiPVlz7YYwJrWVcXK/BmnVDxM+D2scQbITxI" crossorigin="anonymous"></script>
   </body>
 </html>
