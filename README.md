@@ -1,2 +1,2 @@
 # skidootdoot.github.io
-Practice?
+This is a personal portfolio website !
