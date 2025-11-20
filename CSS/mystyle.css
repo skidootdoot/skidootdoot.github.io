@@ -13,3 +13,6 @@ light_green{color: rgb(213,236,223)}
 p {
     font-family: myFont;
 }
+h {
+    font-family: myOtherFont;
+}
