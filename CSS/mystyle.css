@@ -2,6 +2,7 @@ body {background-color: black;}
 dark_blue{color: rgb(34,38,105);}
 medium_blue{color: rgb(98,140,188)}
 light_green{color: rgb(213,236,223)}
+
 @font-face {
     font-family: myFont; /*Goudy Medieval*/
     src:local("C:\Users\skido\Desktop\Goudy Mediaeval Regular.ttf");
@@ -15,4 +16,7 @@ p {
 }
 h {
     font-family: myOtherFont;
+}
+body {
+    font-family: myFont;
 }
