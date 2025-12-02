@@ -13,10 +13,16 @@ light_green{color: rgb(213,236,223)}
 }
 p {
     font-family: myFont;
+    color: rgb(213,236,223)
+}
+p2 {
+    font-family: myFont;
+    color: rgb(213,236,223);
 }
 h {
     font-family: myOtherFont;
 }
 body {
     font-family: myFont;
+    background-color: black
 }
