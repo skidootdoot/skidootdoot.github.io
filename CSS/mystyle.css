@@ -30,3 +30,9 @@ body {
 .nav-link-blue{
     color: rgb(98,140,188);
 }
+.card-link-light-blue{
+   color: rgb(213,236,223); 
+}
+.card-dark-blue{
+    color: rgb(34,38,105)
+}
