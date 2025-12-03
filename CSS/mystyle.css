@@ -13,7 +13,7 @@ light_green{color: rgb(213,236,223)}
 }
 p {
     font-family: myFont;
-    color: rgb(213,236,223)
+    color: rgb(213,236,223);
 }
 p2 {
     font-family: myFont;
@@ -24,5 +24,9 @@ h {
 }
 body {
     font-family: myFont;
-    background-color: black
+    background-color: rgb(black);
+}
+
+.nav-link-blue{
+    color: rgb(98,140,188);
 }
