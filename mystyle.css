@@ -24,7 +24,7 @@ h {
 }
 body {
     font-family: myFont;
-    background-color: rgb(black);
+    background-color: rgb(0,0,0);
 }
 
 .nav-link-blue{
